@@ -261,39 +261,56 @@ footer {
 
 @media screen and (max-width:750px) {
 
+    header a {
+            padding: 5px;
+        }
+        
     #box1 {
-        max-width: 92%;
+        max-width: 98%;
     }
     #box2 {
         background: url(./img/LED.png);
         display: flex;
         min-height: 200px;
         background-size: cover;
-        min-width: 34%;
+        min-width: 96%;
     }
     
     #box3 {
         background: url(./img/calculator.png);
         min-height: 200px;
         background-size: cover;
-        min-width: 34%;
+        min-width: 96%;
     }
     
     #box4 {
         background: url(./img/pastel.png);
         min-height: 200px;
         background-size: cover;
-        min-width: 34%;
+        min-width: 96%;
     }
     
     #box5 {
         background: url(./img/run.png);
         min-height: 200px;
         background-size: cover;
-        min-width:34%;
+        min-width:96%;
     }
     #contact a {
         padding: 5px;
+    }
+
+    #work {
+        height: 1200px;
+    }
+
+    #work h1 {
+        height: 1210px;
+    }
+
+    footer {
+        margin-top: 50px;
+        margin-bottom: 0;
     }
 }
 
