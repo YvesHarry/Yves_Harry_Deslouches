@@ -1,4 +1,4 @@
-h2{
+/*h2{
     text-align: left; 
     border-right: 2px solid ;
     float: left;
@@ -11,20 +11,22 @@ body{
     font:15/1.5 Arial, Helvetica, sans-serif;
     background: #dfe5f4;
 }
-
+*/
 
 /*General*/
 
-.container{
-    max-width:80%;
-    overflow: hidden;
-}
 
 ul{
     list-style-type: none;
     margin:0;
     padding:0;    
 }
+/*
+.body {
+    margin-left: 100px;
+    border-left: 4px solid black;
+}
+*/
 
 /*Header*/
 
