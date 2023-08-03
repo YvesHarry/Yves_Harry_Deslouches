@@ -57,7 +57,7 @@ header ul {
 
 #showcase h1 {    
     min-height:300px;
-    background: url(../../Pictures/Background.jfif);
+    background: url(./img/Background.jfif);
     background-repeat: no-repeat;
     max-width: 100%;
     text-align: end;
@@ -264,7 +264,7 @@ footer {
     header a {
             padding: 5px;
         }
-        
+
     #box1 {
         max-width: 98%;
     }
