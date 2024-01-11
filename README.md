@@ -1,13 +1,11 @@
 # Yves_Harry_Deslouches
 Portfolio of work samples
 
-# Yves Harry Deslouches React Portfolio
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description.
 
-The GitHub-Pages launched application showcases Yves Harry Deslouches' React Portfolio, which contains (6) highlighted projects of his 12-week Full-Stack Developer boot camp experience at the University of Toronto. The portfolio is designed as a single-page application and demonstrates his proficiency in building modern web applications.
+The GitHub-Pages launched application showcases Yves Harry Deslouches' Portfolio, which contain highlighted projects of his debut Full-Stack Developer boot camp experience at the University of Toronto. The portfolio is designed as a single-page application and demonstrates his proficiency in building web applications.
 
 
 ## Table of Contents:
